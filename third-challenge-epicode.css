@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    font-size: 0.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: antiquewhite;
+    color: #010614f6
+}
+
+
+
+
+
+h4 {
+    color: #461616;
+    padding: 1em;
+
+
+
+}
+
+
+
+img {
+    width: 90%;
+    padding: auto;
+    opacity: 1;
+
+
+}
+
+ul {
+    font-size: 2.5em;
+    color: rgba(237, 237, 244, 0.964);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #13524d;
+    text-align: center;
+    list-style-type: none;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(184, 178, 127, 1) 100%);
+
+
+
+
+}
+
+
+h1 {
+    color: #461616;
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+h3 {
+    color: #000000;
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 3em;
+    background: blueviolet;
+    font-family: bold;
+    text-align: center;
+    color: #fef210;
+}
+
+a {
+    font-family: 5em;
+    color: hsla(277, 37%, 53%, 0.965);
+
+
+}
+
+.tagA {
+    font-size: 50px;
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+
+
+}
+
+.tagB {
+    font-size: 2em;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tagC {
+    margin: 1.5em;
+    color: #461616;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tagH4 {
+
+    background-color: hsl(160, 20%, 97%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+
+
+}
+
+.tagT {
+
+
+    text-align: center;
+    font-size: 3em;
+    color: #000000;
+
+}
+
+#bottFinal{
+    background-color: hsl(0, 0%, 98%);
+    color: rgb(119, 143, 143);
+    font-family: 'Times New Roman', Times, serif;
+     border-radius: 10px;}
+
+
+
+
